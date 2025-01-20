@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://github.com/SantoshMorla/Santosh/blob/main/santosh.jpeg)
 
-Welcome to my GitHub profile! I'm passionate about DevOps, cloud infrastructure, and software engineering. I specialize in automation, scalability, and performance optimization.
+<b>Welcome to my GitHub profile! I'm passionate about DevOps, cloud infrastructure, and software engineering. I specialize in automation, scalability, and performance optimization.</b>
 
 ## 🛠️ Technologies & Skills
 
@@ -14,19 +14,6 @@ Welcome to my GitHub profile! I'm passionate about DevOps, cloud infrastructure,
 - **Version Control:** Git, GitHub, Bitbucket
 - **Programming:** Python, Bash, YAML, JSON
 
-## 🚀 Projects
-
-### Finance Tracker 💰
-A cloud-based finance tracking application with features such as:
-- Secure authentication (OAuth, JWT)
-- User dashboards and analytics
-- Task management with reminders
-- Push notifications and social sharing
-- Data export and reporting
-- Gamification elements
-
-🔗 [Check it out on GitHub](https://github.com/SantoshMorla)
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshmorla&show_icons=true&theme=radical)
@@ -35,7 +22,6 @@ A cloud-based finance tracking application with features such as:
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-m-devops/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santoshmorla214@gmail.com)
 
 ## 💡 Fun Facts
