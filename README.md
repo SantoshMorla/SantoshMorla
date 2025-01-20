@@ -25,12 +25,12 @@ A cloud-based finance tracking application with features such as:
 - Data export and reporting
 - Gamification elements
 
-🔗 [Check it out on GitHub](https://github.com/yourusername/finance-tracker)
+🔗 [Check it out on GitHub](https://github.com/SantoshMorla)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshmorla&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshmorla&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
