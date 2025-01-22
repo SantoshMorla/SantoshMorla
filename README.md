@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santosh Morla!
 
-![Profile Banner](https://github.com/SantoshMorla/Santosh/blob/main/santosh.jpeg)
+![Profile Banner](https://github.com/SantoshMorla/SantoshMorla/blob/main/santosh.jpeg?raw=true)
 
 <b>Welcome to my GitHub profile! I'm passionate about DevOps, cloud infrastructure, and software engineering. I specialize in automation, scalability, and performance optimization.</b>
 
