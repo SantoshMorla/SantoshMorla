@@ -6,12 +6,12 @@
 
 ## 🛠️ Technologies & Skills
 
-- **Cloud Platforms:** AWS (IAM, VPC, EC2, S3, RDS, ECS, EKS, ELB, CloudWatch, Billing)
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Containerization & Orchestration:** Docker, Kubernetes
+- **Cloud Platforms:** AWS (IAM, VPC, EC2, S3, RDS, ECS, EKS, ELB, CloudWatch, Lamda)
+- **Infrastructure as Code:** Terraform, CloudFormation.
+- **Containerization & Orchestration:** Docker, Kubernetes, OpenShift.
 - **CI/CD Pipelines:** Jenkins, GitHub Actions, GitLab CI/CD
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Version Control:** Git, GitHub, Bitbucket
+- **Version Control:** Git, GitHub, Bitbucket.
 - **Programming:** Python, Bash, YAML, JSON
 
 ## 📈 GitHub Stats
