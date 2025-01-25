@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santosh Morla!
+# 👋 Hi, I'm Santosh Morla
 
 ![Profile Banner](https://github.com/SantoshMorla/SantoshMorla/blob/main/santosh.jpeg?raw=true)
 
