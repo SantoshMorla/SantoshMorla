@@ -29,7 +29,7 @@
 - 🚀 I enjoy automating everything possible.
 - 🌍 Passionate about cloud-native technologies.
 - 📚 Always learning and experimenting with new DevOps tools.
-- 📚 Also learning MLOps.
+- 📚 Learning MLOps.
 
 ---
 
